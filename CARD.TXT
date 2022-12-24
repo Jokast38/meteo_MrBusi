@@ -1,0 +1,12 @@
+ // <div class="card col-md-3">
+          // <img src="http://openweathermap.org/img/wn/`+icon+`@2x.png" class="card-img-top mx-auto" style="width: 200px">
+          //     <div class="card-body">
+          //     <div class="column">
+          //           <p class="col-md-6">`+descript+`</p>
+          //           <p class="col-md-6">`+temp+`°C</p>
+          //           <p class="col-md-6">`+vent+`</p>
+          //           <p class="col-md-6"> Humidité: `+humidity+`% </p>
+          //           <p class="col-md-6">`+date+`</p>
+          //     </div>
+          //     </div>
+          //  </div>
